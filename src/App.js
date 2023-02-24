@@ -6,7 +6,6 @@ import RegistrationComponent from "./registrationComponent/RegistrationComponent
 function App() {
   return (
     <div className="App">
-      {/* <SignInComponent /> */}
       <Routes>
         <Route path="/" element={<SignInComponent />} />
         <Route path="/Registration" element={<RegistrationComponent />} />
