@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/hm21/static/css/main.2cdcf8b3.css",
+    "main.js": "/github.io/hm21/static/js/main.4670927c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/github.io/hm21/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/github.io/hm21/index.html",
+    "main.2cdcf8b3.css.map": "/github.io/hm21/static/css/main.2cdcf8b3.css.map",
+    "main.4670927c.js.map": "/github.io/hm21/static/js/main.4670927c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/github.io/hm21/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cdcf8b3.css",
+    "static/js/main.4670927c.js"
+  ]
+}
